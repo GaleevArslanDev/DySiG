@@ -1,0 +1,267 @@
+Training logs:
+Epoch 01/30
+  Time: 0.1 min
+  Normalized MSE: train=0.05415, val=0.00771
+  Train MAE: Co=19.512, Ethylene=0.566
+  Val MAE:   Co=9.580, Ethylene=0.264
+  Val RMSE:  Co=15.336, Ethylene=0.418
+  Total time: 0.1 min
+
+Epoch 02/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00949, val=0.00861
+  Train MAE: Co=8.408, Ethylene=0.257
+  Val MAE:   Co=11.796, Ethylene=0.184
+  Val RMSE:  Co=18.804, Ethylene=0.300
+  Total time: 0.1 min
+
+Epoch 03/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00441, val=0.00842
+  Train MAE: Co=5.775, Ethylene=0.163
+  Val MAE:   Co=8.664, Ethylene=0.360
+  Val RMSE:  Co=14.409, Ethylene=0.497
+  Total time: 0.2 min
+
+Epoch 04/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00335, val=0.00836
+  Train MAE: Co=4.971, Ethylene=0.145
+  Val MAE:   Co=10.745, Ethylene=0.230
+  Val RMSE:  Co=18.259, Ethylene=0.315
+  Total time: 0.2 min
+
+Epoch 05/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00282, val=0.00930
+  Train MAE: Co=4.341, Ethylene=0.141
+  Val MAE:   Co=12.077, Ethylene=0.214
+  Val RMSE:  Co=19.045, Ethylene=0.345
+  Total time: 0.3 min
+
+Epoch 06/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00497, val=0.00667
+  Train MAE: Co=5.815, Ethylene=0.183
+  Val MAE:   Co=7.225, Ethylene=0.207
+  Val RMSE:  Co=15.940, Ethylene=0.305
+  Total time: 0.4 min
+
+Epoch 07/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00175, val=0.00355
+  Train MAE: Co=3.582, Ethylene=0.116
+  Val MAE:   Co=5.575, Ethylene=0.150
+  Val RMSE:  Co=11.143, Ethylene=0.249
+  Total time: 0.4 min
+
+Epoch 08/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00146, val=0.00741
+  Train MAE: Co=3.285, Ethylene=0.103
+  Val MAE:   Co=11.104, Ethylene=0.153
+  Val RMSE:  Co=17.945, Ethylene=0.240
+  Total time: 0.5 min
+
+Epoch 09/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00452, val=0.00332
+  Train MAE: Co=5.598, Ethylene=0.170
+  Val MAE:   Co=5.621, Ethylene=0.158
+  Val RMSE:  Co=10.520, Ethylene=0.254
+  Total time: 0.5 min
+
+Epoch 10/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00232, val=0.00780
+  Train MAE: Co=4.006, Ethylene=0.125
+  Val MAE:   Co=10.649, Ethylene=0.189
+  Val RMSE:  Co=17.696, Ethylene=0.300
+  Total time: 0.6 min
+
+Epoch 11/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00167, val=0.00356
+  Train MAE: Co=3.502, Ethylene=0.107
+  Val MAE:   Co=5.548, Ethylene=0.160
+  Val RMSE:  Co=10.731, Ethylene=0.270
+  Total time: 0.7 min
+
+Epoch 12/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00130, val=0.00260
+  Train MAE: Co=3.097, Ethylene=0.098
+  Val MAE:   Co=4.958, Ethylene=0.147
+  Val RMSE:  Co=9.540, Ethylene=0.213
+  Total time: 0.7 min
+
+Epoch 13/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00439, val=0.00342
+  Train MAE: Co=5.150, Ethylene=0.152
+  Val MAE:   Co=6.190, Ethylene=0.142
+  Val RMSE:  Co=11.277, Ethylene=0.226
+  Total time: 0.8 min
+
+Epoch 14/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00103, val=0.00688
+  Train MAE: Co=2.754, Ethylene=0.085
+  Val MAE:   Co=9.855, Ethylene=0.182
+  Val RMSE:  Co=16.693, Ethylene=0.277
+  Total time: 0.9 min
+
+Epoch 15/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00112, val=0.00413
+  Train MAE: Co=2.820, Ethylene=0.095
+  Val MAE:   Co=5.483, Ethylene=0.180
+  Val RMSE:  Co=11.664, Ethylene=0.286
+  Total time: 1.0 min
+
+Epoch 16/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00500, val=0.00536
+  Train MAE: Co=5.499, Ethylene=0.162
+  Val MAE:   Co=5.130, Ethylene=0.334
+  Val RMSE:  Co=8.169, Ethylene=0.482
+  Total time: 1.0 min
+
+Epoch 17/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00336, val=0.00435
+  Train MAE: Co=4.376, Ethylene=0.152
+  Val MAE:   Co=7.345, Ethylene=0.183
+  Val RMSE:  Co=12.486, Ethylene=0.268
+  Total time: 1.1 min
+
+Epoch 18/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00167, val=0.00272
+  Train MAE: Co=3.432, Ethylene=0.095
+  Val MAE:   Co=4.778, Ethylene=0.141
+  Val RMSE:  Co=9.686, Ethylene=0.222
+  Total time: 1.2 min
+
+Epoch 19/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00086, val=0.00283
+  Train MAE: Co=2.311, Ethylene=0.087
+  Val MAE:   Co=4.395, Ethylene=0.139
+  Val RMSE:  Co=9.577, Ethylene=0.241
+  Total time: 1.2 min
+
+Epoch 20/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00087, val=0.00398
+  Train MAE: Co=2.552, Ethylene=0.082
+  Val MAE:   Co=6.916, Ethylene=0.147
+  Val RMSE:  Co=12.159, Ethylene=0.244
+  Total time: 1.3 min
+
+Epoch 21/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00107, val=0.00521
+  Train MAE: Co=2.785, Ethylene=0.091
+  Val MAE:   Co=8.173, Ethylene=0.145
+  Val RMSE:  Co=14.472, Ethylene=0.244
+  Total time: 1.3 min
+
+Epoch 22/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00098, val=0.00299
+  Train MAE: Co=2.663, Ethylene=0.087
+  Val MAE:   Co=5.257, Ethylene=0.145
+  Val RMSE:  Co=9.808, Ethylene=0.249
+  Total time: 1.4 min
+
+Epoch 23/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00090, val=0.00263
+  Train MAE: Co=2.634, Ethylene=0.082
+  Val MAE:   Co=4.454, Ethylene=0.146
+  Val RMSE:  Co=8.487, Ethylene=0.262
+  Total time: 1.5 min
+
+Epoch 24/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00108, val=0.00470
+  Train MAE: Co=2.832, Ethylene=0.090
+  Val MAE:   Co=7.236, Ethylene=0.178
+  Val RMSE:  Co=12.615, Ethylene=0.297
+  Total time: 1.5 min
+
+Epoch 25/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00468, val=0.00419
+  Train MAE: Co=5.539, Ethylene=0.162
+  Val MAE:   Co=5.026, Ethylene=0.170
+  Val RMSE:  Co=11.624, Ethylene=0.294
+  Total time: 1.6 min
+
+Epoch 26/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00080, val=0.00528
+  Train MAE: Co=2.295, Ethylene=0.080
+  Val MAE:   Co=7.745, Ethylene=0.142
+  Val RMSE:  Co=14.323, Ethylene=0.262
+  Total time: 1.6 min
+
+Epoch 27/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00070, val=0.00351
+  Train MAE: Co=2.105, Ethylene=0.075
+  Val MAE:   Co=5.476, Ethylene=0.157
+  Val RMSE:  Co=11.278, Ethylene=0.238
+  Total time: 1.7 min
+
+Epoch 28/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00082, val=0.00353
+  Train MAE: Co=2.422, Ethylene=0.076
+  Val MAE:   Co=6.089, Ethylene=0.136
+  Val RMSE:  Co=11.140, Ethylene=0.247
+  Total time: 1.8 min
+
+Epoch 29/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00085, val=0.00344
+  Train MAE: Co=2.464, Ethylene=0.078
+  Val MAE:   Co=5.721, Ethylene=0.166
+  Val RMSE:  Co=10.401, Ethylene=0.272
+  Total time: 1.8 min
+
+Epoch 30/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00226, val=0.01268
+  Train MAE: Co=3.265, Ethylene=0.107
+  Val MAE:   Co=11.312, Ethylene=0.376
+  Val RMSE:  Co=18.363, Ethylene=0.586
+  Total time: 1.9 min
+
+
+
+
+Best epoch:
+Best epoch: 12
+Best validation loss: 0.002603594204386009
+
+
+
+
+Test:
+Test results
+  Normalized MSE: 0.00210
+  Co: MAE=3.977, RMSE=7.808
+  Ethylene: MAE=0.122, RMSE=0.226
+
+
+
+
+Проверка на 0:
+Ethylene
+  MAE при target = 0: 0.37517327
+  MAE при target > 0: 10.914254
+Ethylene
+  MAE при target = 0: 0.01853863
+  MAE при target > 0: 0.26378778

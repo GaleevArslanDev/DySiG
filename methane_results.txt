@@ -1,0 +1,267 @@
+Training logs:
+Epoch 01/30
+  Time: 0.1 min
+  Normalized MSE: train=0.03751, val=0.01359
+  Train MAE: Methane=5.649, Ethylene=0.476
+  Val MAE:   Methane=4.717, Ethylene=0.248
+  Val RMSE:  Methane=8.688, Ethylene=0.591
+  Total time: 0.1 min
+
+Epoch 02/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00446, val=0.02082
+  Train MAE: Methane=2.230, Ethylene=0.191
+  Val MAE:   Methane=7.856, Ethylene=0.216
+  Val RMSE:  Methane=12.808, Ethylene=0.515
+  Total time: 0.1 min
+
+Epoch 03/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00460, val=0.00636
+  Train MAE: Methane=2.415, Ethylene=0.181
+  Val MAE:   Methane=2.769, Ethylene=0.210
+  Val RMSE:  Methane=5.002, Ethylene=0.470
+  Total time: 0.2 min
+
+Epoch 04/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00293, val=0.00697
+  Train MAE: Methane=1.814, Ethylene=0.134
+  Val MAE:   Methane=3.266, Ethylene=0.210
+  Val RMSE:  Methane=5.673, Ethylene=0.464
+  Total time: 0.2 min
+
+Epoch 05/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00329, val=0.00377
+  Train MAE: Methane=1.997, Ethylene=0.136
+  Val MAE:   Methane=2.176, Ethylene=0.179
+  Val RMSE:  Methane=3.551, Ethylene=0.378
+  Total time: 0.3 min
+
+Epoch 06/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00241, val=0.05102
+  Train MAE: Methane=1.669, Ethylene=0.117
+  Val MAE:   Methane=8.228, Ethylene=0.483
+  Val RMSE:  Methane=16.815, Ethylene=1.146
+  Total time: 0.4 min
+
+Epoch 07/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00389, val=0.00467
+  Train MAE: Methane=1.961, Ethylene=0.163
+  Val MAE:   Methane=2.798, Ethylene=0.153
+  Val RMSE:  Methane=4.776, Ethylene=0.370
+  Total time: 0.4 min
+
+Epoch 08/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00221, val=0.00456
+  Train MAE: Methane=1.504, Ethylene=0.121
+  Val MAE:   Methane=2.732, Ethylene=0.249
+  Val RMSE:  Methane=4.250, Ethylene=0.396
+  Total time: 0.5 min
+
+Epoch 09/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00275, val=0.00658
+  Train MAE: Methane=1.715, Ethylene=0.129
+  Val MAE:   Methane=3.764, Ethylene=0.254
+  Val RMSE:  Methane=5.743, Ethylene=0.435
+  Total time: 0.6 min
+
+Epoch 10/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00188, val=0.00586
+  Train MAE: Methane=1.404, Ethylene=0.113
+  Val MAE:   Methane=2.135, Ethylene=0.171
+  Val RMSE:  Methane=3.709, Ethylene=0.505
+  Total time: 0.6 min
+
+Epoch 11/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00208, val=0.01313
+  Train MAE: Methane=1.444, Ethylene=0.107
+  Val MAE:   Methane=6.016, Ethylene=0.228
+  Val RMSE:  Methane=9.906, Ethylene=0.444
+  Total time: 0.7 min
+
+Epoch 12/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00285, val=0.03038
+  Train MAE: Methane=1.846, Ethylene=0.132
+  Val MAE:   Methane=4.120, Ethylene=0.356
+  Val RMSE:  Methane=6.879, Ethylene=1.206
+  Total time: 0.7 min
+
+Epoch 13/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00162, val=0.00600
+  Train MAE: Methane=1.398, Ethylene=0.096
+  Val MAE:   Methane=2.049, Ethylene=0.194
+  Val RMSE:  Methane=3.692, Ethylene=0.513
+  Total time: 0.8 min
+
+Epoch 14/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00190, val=0.00233
+  Train MAE: Methane=1.348, Ethylene=0.107
+  Val MAE:   Methane=1.836, Ethylene=0.143
+  Val RMSE:  Methane=3.282, Ethylene=0.268
+  Total time: 0.9 min
+
+Epoch 15/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00416, val=0.00555
+  Train MAE: Methane=2.076, Ethylene=0.146
+  Val MAE:   Methane=2.290, Ethylene=0.166
+  Val RMSE:  Methane=4.064, Ethylene=0.471
+  Total time: 0.9 min
+
+Epoch 16/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00201, val=0.00355
+  Train MAE: Methane=1.450, Ethylene=0.113
+  Val MAE:   Methane=1.553, Ethylene=0.141
+  Val RMSE:  Methane=2.891, Ethylene=0.393
+  Total time: 1.0 min
+
+Epoch 17/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00150, val=0.00275
+  Train MAE: Methane=1.333, Ethylene=0.088
+  Val MAE:   Methane=2.436, Ethylene=0.157
+  Val RMSE:  Methane=3.748, Ethylene=0.279
+  Total time: 1.0 min
+
+Epoch 18/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00209, val=0.00764
+  Train MAE: Methane=1.382, Ethylene=0.113
+  Val MAE:   Methane=1.929, Ethylene=0.217
+  Val RMSE:  Methane=3.458, Ethylene=0.604
+  Total time: 1.1 min
+
+Epoch 19/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00135, val=0.00342
+  Train MAE: Methane=1.166, Ethylene=0.090
+  Val MAE:   Methane=1.658, Ethylene=0.153
+  Val RMSE:  Methane=3.025, Ethylene=0.377
+  Total time: 1.2 min
+
+Epoch 20/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00241, val=0.00481
+  Train MAE: Methane=1.492, Ethylene=0.125
+  Val MAE:   Methane=1.991, Ethylene=0.147
+  Val RMSE:  Methane=3.167, Ethylene=0.465
+  Total time: 1.2 min
+
+Epoch 21/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00202, val=0.00460
+  Train MAE: Methane=1.567, Ethylene=0.097
+  Val MAE:   Methane=2.116, Ethylene=0.172
+  Val RMSE:  Methane=3.210, Ethylene=0.450
+  Total time: 1.3 min
+
+Epoch 22/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00223, val=0.00222
+  Train MAE: Methane=1.350, Ethylene=0.106
+  Val MAE:   Methane=1.500, Ethylene=0.103
+  Val RMSE:  Methane=2.377, Ethylene=0.306
+  Total time: 1.4 min
+
+Epoch 23/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00093, val=0.03467
+  Train MAE: Methane=0.959, Ethylene=0.074
+  Val MAE:   Methane=2.282, Ethylene=0.354
+  Val RMSE:  Methane=3.717, Ethylene=1.372
+  Total time: 1.4 min
+
+Epoch 24/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00185, val=0.00354
+  Train MAE: Methane=1.252, Ethylene=0.102
+  Val MAE:   Methane=2.256, Ethylene=0.172
+  Val RMSE:  Methane=3.824, Ethylene=0.345
+  Total time: 1.5 min
+
+Epoch 25/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00176, val=0.00299
+  Train MAE: Methane=1.406, Ethylene=0.105
+  Val MAE:   Methane=1.607, Ethylene=0.127
+  Val RMSE:  Methane=2.976, Ethylene=0.346
+  Total time: 1.5 min
+
+Epoch 26/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00166, val=0.00390
+  Train MAE: Methane=1.192, Ethylene=0.101
+  Val MAE:   Methane=3.065, Ethylene=0.124
+  Val RMSE:  Methane=4.968, Ethylene=0.288
+  Total time: 1.6 min
+
+Epoch 27/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00132, val=0.00332
+  Train MAE: Methane=1.190, Ethylene=0.088
+  Val MAE:   Methane=2.106, Ethylene=0.127
+  Val RMSE:  Methane=3.422, Ethylene=0.350
+  Total time: 1.7 min
+
+Epoch 28/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00088, val=0.00383
+  Train MAE: Methane=0.982, Ethylene=0.076
+  Val MAE:   Methane=2.741, Ethylene=0.110
+  Val RMSE:  Methane=4.698, Ethylene=0.307
+  Total time: 1.7 min
+
+Epoch 29/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00297, val=0.00461
+  Train MAE: Methane=1.737, Ethylene=0.131
+  Val MAE:   Methane=1.960, Ethylene=0.187
+  Val RMSE:  Methane=3.158, Ethylene=0.453
+  Total time: 1.8 min
+
+Epoch 30/30
+  Time: 0.1 min
+  Normalized MSE: train=0.00180, val=0.00245
+  Train MAE: Methane=1.266, Ethylene=0.095
+  Val MAE:   Methane=1.782, Ethylene=0.125
+  Val RMSE:  Methane=3.157, Ethylene=0.289
+  Total time: 1.8 min
+
+
+
+
+Best epoch:
+Best epoch: 22
+Best validation loss: 0.0022158960915555285
+
+
+
+
+Test:
+Test results
+  Normalized MSE: 0.00478
+  Methane: MAE=1.619, RMSE=3.591
+  Ethylene: MAE=0.096, RMSE=0.446
+
+
+
+
+Проверка на 0:
+Ethylene
+  MAE при target = 0: 0.41987845
+  MAE при target > 0: 3.506002
+Ethylene
+  MAE при target = 0: 0.01004233
+  MAE при target > 0: 0.20193017
