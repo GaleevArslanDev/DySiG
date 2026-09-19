@@ -259,7 +259,7 @@ Test results
 
 
 Проверка на 0:
-Ethylene
+CO
   MAE при target = 0: 0.37517327
   MAE при target > 0: 10.914254
 Ethylene
