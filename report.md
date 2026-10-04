@@ -52,8 +52,38 @@ Ethylene
 
 # Model 2 - Pooling + CNN + LSTM + MLP
 ## Parameters
+    class BaselineLSTM(nn.Module):
+        def __init__(self, channels):
+            super().__init__()
+    
+            self.channels = channels
+    
+            self.pooling = nn.AvgPool1d(kernel_size=5, stride=5)
+    
+            self.cnn = nn.Sequential(
+                nn.Conv1d(in_channels=self.channels, out_channels=32, kernel_size=7, padding=3),
+                nn.ReLU(),
+                nn.Conv1d(in_channels=32, out_channels=64, kernel_size=5, stride=2, padding=2),
+                nn.ReLU(),
+                nn.Conv1d(in_channels=64, out_channels=64, kernel_size=5, stride=2, padding=2),
+                nn.ReLU(),
+            )
+    
+            self.lstm = nn.LSTM(input_size=64, hidden_size=64, num_layers=1, batch_first=True, bidirectional=False)
+    
+            self.lin_head = nn.Linear(in_features=64, out_features=2)
+    
+        def forward(self, x):
+            x = self.pooling(x)
+            x = self.cnn(x)
+            x = x.transpose(1, 2)
+            _, (h, _) = self.lstm(x)
+            x = h[-1]
+            pred = self.lin_head(x)
+            return pred
 
 ## Graph
+![img_1.png](img_1.png)
 
 ## Test results
 ### Window slicing
